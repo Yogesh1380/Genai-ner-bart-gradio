@@ -103,7 +103,7 @@ demo.launch(share=True, server_port=int(os.environ['PORT4']))
 ```
 # OUTPUT:
 
-
+![image alt](https://github.com/Yogesh1380/Genai-ner-bart-gradio/blob/e823a94b712f72b5b0bcb4e6fd3160146c43ce27/Screenshot%202026-03-13%20144536.png)
 
 
 ### RESULT:
